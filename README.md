@@ -19,4 +19,7 @@ this can be done by going to the extensions tab in VSCode and searching for
 
 I have then run the code using ctrl+alt+n inside of VSCode
 
-## 
+## Code Overview
+
+## Shortcomings
+
