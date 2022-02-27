@@ -37,3 +37,10 @@ block of code is run. This code contains following options:
 - Option 5: This option quits the program by setting the 'running' variable to false therefore terminating the loop.
 
 ## Shortcomings
+Overall, I am realatively happy with my first go at writing javascript code however, the option 4 does not really work how
+I intended it to. In option 4 I wanted it to: if the medicine already exists in the inventory, the user would be asked
+how many packs they wish to add and it would then be added to however many packs are already in the inventory.
+This is something that I have noticed at the end of writing the code and I really wanted to stick to the 4-6 hour window
+recommended by the document therefore I have not implemented it. Also lack of knowledge of javascript and constantly
+having to look up syntax took out a good chunk of time. Given more time and perhaps if my knowledge of javascript was
+a little bit better I think I could have made it work.
